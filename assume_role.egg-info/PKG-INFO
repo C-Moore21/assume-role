@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: assume-role
+Version: 0.1.0
+Summary: assumerole: a CLI tool making it easy to assume IAM roles through an AWS Bastion account.
+Home-page: https://support.sampleminded.com
+Author: Aidan Melen
+Author-email: amelen@exactsciences.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: sampleminded python utilities
+Platform: UNKNOWN
+Classifier: Development Status :: Production
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3.6.3

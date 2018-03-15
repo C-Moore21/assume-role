@@ -1,0 +1,8 @@
+assume_role/__init__.py
+assume_role/__main__.py
+assume_role.egg-info/PKG-INFO
+assume_role.egg-info/SOURCES.txt
+assume_role.egg-info/dependency_links.txt
+assume_role.egg-info/entry_points.txt
+assume_role.egg-info/requires.txt
+assume_role.egg-info/top_level.txt

@@ -1,0 +1,4 @@
+[console_scripts]
+assume-role = assume_role.__main__:main
+init-assume-role = init_assume_role.__main__:main
+
